@@ -1,0 +1,14 @@
+.bar-container{
+    height : 250px;
+    position : relative;
+    margin-top : 10px;
+}
+
+.bar{
+    position : absolute;
+    background : black;
+    width : 6px;
+    float : left;
+    margin-right : 5px;
+    bottom : 0;
+}
